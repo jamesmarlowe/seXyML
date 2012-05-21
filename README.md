@@ -1,4 +1,4 @@
 seXyML
 ======
 
-send anything to XML!
+python function to send anything to XML!
